@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pt
+*.bin
+*.pkl
+checkpoints/
+logs/
+.DS_Store
+*.ipynb_checkpoints
+venv/
+*.pyc
+.idea/

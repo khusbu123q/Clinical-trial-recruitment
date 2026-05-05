@@ -1,0 +1,2031 @@
+[
+  {
+    "patient_id": "P0001",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 32 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0002",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 53 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0003",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 55 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0004",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 39 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0005",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 76 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0006",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 77 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0007",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 40 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0008",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 25 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0009",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 43 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0010",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 83 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0011",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 25 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0012",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 48 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0013",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 45 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0014",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 49 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0015",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 30 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0016",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 31 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0017",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 34 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0018",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 31 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0019",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 49 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0020",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 83 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0021",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 42 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0022",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 34 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0023",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 78 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0024",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 42 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0025",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 58 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0026",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 27 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0027",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 79 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0028",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 77 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0029",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 71 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0030",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 32 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0031",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 49 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0032",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 76 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0033",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 77 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0034",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 80 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0035",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 33 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0036",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 80 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0037",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 49 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0038",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 51 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0039",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 46 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0040",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 23 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0041",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 73 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0042",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 69 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0043",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 48 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0044",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 42 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0045",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 66 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0046",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 22 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0047",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 28 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0048",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 30 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0049",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "Age 76 outside 18\u201370 years",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0050",
+    "trial_nct_id": "NCT05404061",
+    "trial_title": "The Poor Responders Study",
+    "eligible": false,
+    "score": 0.25,
+    "blocking": [
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record",
+      "surgery not found \u2717 in record"
+    ],
+    "supporting": [
+      "Age 66 within 18\u201370 years"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0001",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0002",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0003",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0004",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0005",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0006",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0007",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0008",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0009",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0010",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0011",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0012",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0013",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0014",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0015",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0016",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "insulin present \u2014 exclusion triggered \u2717",
+      "insulin found \u2713 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0017",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "insulin present \u2014 exclusion triggered \u2717",
+      "insulin found \u2713 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0018",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0019",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0020",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0021",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0022",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0023",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0024",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0025",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0026",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "insulin present \u2014 exclusion triggered \u2717",
+      "insulin found \u2713 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0027",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0028",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0029",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0030",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0031",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0032",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0033",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "insulin present \u2014 exclusion triggered \u2717",
+      "insulin found \u2713 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0034",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0035",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "insulin present \u2014 exclusion triggered \u2717",
+      "insulin found \u2713 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0036",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0037",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0038",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0039",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0040",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0041",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0042",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0043",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0044",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0045",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0046",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0047",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0048",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "cancer found \u2713 in record"
+    ],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0049",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0050",
+    "trial_nct_id": "NCT06710340",
+    "trial_title": "Research on Effects of Acute Consumption of Nuts in Obese Di",
+    "eligible": true,
+    "score": 1.0,
+    "blocking": [],
+    "supporting": [
+      "insulin absent \u2713"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0001",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0002",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0003",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0004",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0005",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0006",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0007",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0008",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0009",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0010",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0011",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0012",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0013",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0014",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0015",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0016",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0017",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0018",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0019",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0020",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0021",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0022",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0023",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0024",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0025",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0026",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0027",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0028",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0029",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0030",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0031",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0032",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0033",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0034",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0035",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0036",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0037",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0038",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0039",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0040",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0041",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0042",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0043",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0044",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0045",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0046",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0047",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0048",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 1.0,
+    "blocking": [
+      "diabetes found \u2713 in record"
+    ],
+    "supporting": [
+      "diabetes found \u2713 in record"
+    ],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0049",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  },
+  {
+    "patient_id": "P0050",
+    "trial_nct_id": "NCT05933174",
+    "trial_title": "Promoting Alternatives to Sulfonylureas to Improve Patient S",
+    "eligible": false,
+    "score": 0.0,
+    "blocking": [
+      "diabetes not found \u2717 in record"
+    ],
+    "supporting": [],
+    "llm_needed": true
+  }
+]
