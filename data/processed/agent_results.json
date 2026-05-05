@@ -1,0 +1,432 @@
+[
+  {
+    "patient_id": "P0001",
+    "trial_id": "NCT06710340",
+    "eligibility_decision": "UNCERTAIN",
+    "eligibility_score": 0.333,
+    "compliance_approved": true,
+    "compliance_issues": [],
+    "outreach_message": "",
+    "screening_results": [
+      {
+        "criterion": "Women over 18 years of age",
+        "met": false,
+        "reasoning": "Patient is male, age 32 \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of obesity (body mass index [BMI >30 kg/m\u00b2])",
+        "met": true,
+        "reasoning": "BMI is 37.1 kg/m\u00b2 which is >30 kg/m\u00b2 \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of non-insulin-dependent type II diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of non-insulin-dependent type II diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Use of dietary supplements or corticosteroid use in the last 3 months",
+        "met": false,
+        "reasoning": "No medications indicating dietary supplements or corticosteroids found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of insulin dependent diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of insulin dependent diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of cancer",
+        "met": false,
+        "reasoning": "No diagnosis of cancer found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of heart failure",
+        "met": false,
+        "reasoning": "No diagnosis of heart failure found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of kidney diseases",
+        "met": false,
+        "reasoning": "No diagnosis of kidney diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of liver diseases",
+        "met": false,
+        "reasoning": "No diagnosis of liver diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of lung diseases",
+        "met": false,
+        "reasoning": "No diagnosis of lung diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of neurological diseases",
+        "met": false,
+        "reasoning": "No diagnosis of neurological diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of allergy to any component of the high saturated fat meal or walnuts",
+        "met": false,
+        "reasoning": "No diagnosis of allergy to any component of the high saturated fat meal or walnuts found \u2014 criterion NOT MET"
+      }
+    ],
+    "audit_log": [
+      {
+        "step": "screener",
+        "decision": "UNCERTAIN",
+        "score": 0.3333333333333333,
+        "criteria_evaluated": 12
+      },
+      {
+        "step": "compliance",
+        "approved": true,
+        "note": "No outreach message \u2014 ineligible patient logged",
+        "patient_id": "P0001",
+        "decision": "UNCERTAIN"
+      }
+    ]
+  },
+  {
+    "patient_id": "P0005",
+    "trial_id": "NCT06710340",
+    "eligibility_decision": "UNCERTAIN",
+    "eligibility_score": 0.333,
+    "compliance_approved": true,
+    "compliance_issues": [],
+    "outreach_message": "",
+    "screening_results": [
+      {
+        "criterion": "Women over 18 years of age",
+        "met": false,
+        "reasoning": "Patient is male \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of obesity (body mass index [BMI >30 kg/m\u00b2])",
+        "met": false,
+        "reasoning": "BMI is 28.8 kg/m\u00b2 which is < 30 kg/m\u00b2 \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of non-insulin-dependent type II diabetes",
+        "met": true,
+        "reasoning": "Patient has a diagnosis of type 2 diabetes \u2014 criterion MET"
+      },
+      {
+        "criterion": "Use of dietary supplements or corticosteroid use in the last 3 months",
+        "met": false,
+        "reasoning": "No dietary supplements or corticosteroids listed in current medications \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of insulin dependent diabetes",
+        "met": false,
+        "reasoning": "Patient has type 2 diabetes, not insulin dependent \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of cancer",
+        "met": false,
+        "reasoning": "No diagnosis of cancer found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of heart failure",
+        "met": false,
+        "reasoning": "No diagnosis of heart failure found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of kidney diseases",
+        "met": false,
+        "reasoning": "No diagnosis of kidney diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of liver diseases",
+        "met": false,
+        "reasoning": "No diagnosis of liver diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of lung diseases",
+        "met": false,
+        "reasoning": "No diagnosis of lung diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of neurological diseases",
+        "met": false,
+        "reasoning": "No diagnosis of neurological diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of allergy to any component of the high saturated fat meal or walnuts",
+        "met": false,
+        "reasoning": "No diagnosis of such allergies found \u2014 criterion NOT MET"
+      }
+    ],
+    "audit_log": [
+      {
+        "step": "screener",
+        "decision": "UNCERTAIN",
+        "score": 0.3333333333333333,
+        "criteria_evaluated": 12
+      },
+      {
+        "step": "compliance",
+        "approved": true,
+        "note": "No outreach message \u2014 ineligible patient logged",
+        "patient_id": "P0005",
+        "decision": "UNCERTAIN"
+      }
+    ]
+  },
+  {
+    "patient_id": "P0010",
+    "trial_id": "NCT06710340",
+    "eligibility_decision": "UNCERTAIN",
+    "eligibility_score": 0.667,
+    "compliance_approved": true,
+    "compliance_issues": [],
+    "outreach_message": "",
+    "screening_results": [
+      {
+        "criterion": "Women over 18 years of age",
+        "met": false,
+        "reasoning": "Patient is male (M) \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of obesity (body mass index [BMI >30 kg/m\u00b2])",
+        "met": true,
+        "reasoning": "BMI is 33.9 kg/m\u00b2 which is >30 kg/m\u00b2 \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of non-insulin-dependent type II diabetes",
+        "met": true,
+        "reasoning": "Diagnosis of type 2 diabetes and on metformin (non-insulin medication) \u2014 criterion MET"
+      },
+      {
+        "criterion": "Use of dietary supplements or corticosteroid use in the last 3 months",
+        "met": false,
+        "reasoning": "No information on dietary supplements or corticosteroid use \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of insulin dependent diabetes",
+        "met": false,
+        "reasoning": "Diagnosis is type 2 diabetes, not insulin dependent \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of cancer",
+        "met": false,
+        "reasoning": "No diagnosis of cancer found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of heart failure",
+        "met": false,
+        "reasoning": "No diagnosis of heart failure found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of kidney diseases",
+        "met": false,
+        "reasoning": "No diagnosis of kidney diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of liver diseases",
+        "met": false,
+        "reasoning": "No diagnosis of liver diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of lung diseases",
+        "met": false,
+        "reasoning": "No diagnosis of lung diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of neurological diseases",
+        "met": false,
+        "reasoning": "No diagnosis of neurological diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of allergy to any component of the high saturated fat meal or walnuts",
+        "met": false,
+        "reasoning": "No diagnosis of such allergies found \u2014 criterion NOT MET"
+      }
+    ],
+    "audit_log": [
+      {
+        "step": "screener",
+        "decision": "UNCERTAIN",
+        "score": 0.6666666666666666,
+        "criteria_evaluated": 12
+      },
+      {
+        "step": "compliance",
+        "approved": true,
+        "note": "No outreach message \u2014 ineligible patient logged",
+        "patient_id": "P0010",
+        "decision": "UNCERTAIN"
+      }
+    ]
+  },
+  {
+    "patient_id": "P0015",
+    "trial_id": "NCT06710340",
+    "eligibility_decision": "INELIGIBLE",
+    "eligibility_score": 0.333,
+    "compliance_approved": true,
+    "compliance_issues": [],
+    "outreach_message": "",
+    "screening_results": [
+      {
+        "criterion": "Women over 18 years of age",
+        "met": false,
+        "reasoning": "Patient is male \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of obesity (body mass index [BMI >30 kg/m\u00b2])",
+        "met": true,
+        "reasoning": "BMI is 45.3 kg/m\u00b2 which is > 30 kg/m\u00b2 \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of non-insulin-dependent type II diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of non-insulin-dependent type II diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Use of dietary supplements or corticosteroid use in the last 3 months",
+        "met": false,
+        "reasoning": "No recorded medications, including dietary supplements or corticosteroids \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of insulin dependent diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of insulin dependent diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of cancer",
+        "met": false,
+        "reasoning": "No diagnosis of cancer found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of heart failure",
+        "met": false,
+        "reasoning": "No diagnosis of heart failure found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of kidney diseases",
+        "met": false,
+        "reasoning": "No diagnosis of kidney diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of liver diseases",
+        "met": true,
+        "reasoning": "Diagnosis of liver disease is present \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of lung diseases",
+        "met": false,
+        "reasoning": "No diagnosis of lung diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of neurological diseases",
+        "met": false,
+        "reasoning": "No diagnosis of neurological diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of allergy to any component of the high saturated fat meal or walnuts",
+        "met": false,
+        "reasoning": "No diagnosis of allergy to any component of the high saturated fat meal or walnuts found \u2014 criterion NOT MET"
+      }
+    ],
+    "audit_log": [
+      {
+        "step": "screener",
+        "decision": "INELIGIBLE",
+        "score": 0.3333333333333333,
+        "criteria_evaluated": 12
+      },
+      {
+        "step": "compliance",
+        "approved": true,
+        "note": "No outreach message \u2014 ineligible patient logged",
+        "patient_id": "P0015",
+        "decision": "INELIGIBLE"
+      }
+    ]
+  },
+  {
+    "patient_id": "P0020",
+    "trial_id": "NCT06710340",
+    "eligibility_decision": "INELIGIBLE",
+    "eligibility_score": 0.333,
+    "compliance_approved": true,
+    "compliance_issues": [],
+    "outreach_message": "",
+    "screening_results": [
+      {
+        "criterion": "Women over 18 years of age",
+        "met": true,
+        "reasoning": "Patient is 83 years old and female \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of obesity (body mass index [BMI >30 kg/m\u00b2])",
+        "met": false,
+        "reasoning": "BMI is 25.8 kg/m\u00b2 which is not >30 kg/m\u00b2 \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of non-insulin-dependent type II diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of non-insulin-dependent type II diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Use of dietary supplements or corticosteroid use in the last 3 months",
+        "met": false,
+        "reasoning": "No information on dietary supplements or corticosteroid use found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of insulin dependent diabetes",
+        "met": false,
+        "reasoning": "No diagnosis of insulin dependent diabetes found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of cancer",
+        "met": false,
+        "reasoning": "No diagnosis of cancer found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of heart failure",
+        "met": true,
+        "reasoning": "Diagnosis of heart failure is present \u2014 criterion MET"
+      },
+      {
+        "criterion": "Diagnosis of kidney diseases",
+        "met": false,
+        "reasoning": "No diagnosis of kidney diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of liver diseases",
+        "met": false,
+        "reasoning": "No diagnosis of liver diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of lung diseases",
+        "met": false,
+        "reasoning": "No diagnosis of lung diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of neurological diseases",
+        "met": false,
+        "reasoning": "No diagnosis of neurological diseases found \u2014 criterion NOT MET"
+      },
+      {
+        "criterion": "Diagnosis of allergy to any component of the high saturated fat meal or walnuts",
+        "met": false,
+        "reasoning": "No diagnosis of allergy to any component of the high saturated fat meal or walnuts found \u2014 criterion NOT MET"
+      }
+    ],
+    "audit_log": [
+      {
+        "step": "screener",
+        "decision": "INELIGIBLE",
+        "score": 0.3333333333333333,
+        "criteria_evaluated": 12
+      },
+      {
+        "step": "compliance",
+        "approved": true,
+        "note": "No outreach message \u2014 ineligible patient logged",
+        "patient_id": "P0020",
+        "decision": "INELIGIBLE"
+      }
+    ]
+  }
+]
